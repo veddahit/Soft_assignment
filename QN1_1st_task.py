@@ -37,6 +37,7 @@ with open(csv_file_path, 'r') as file:
     
     column_values = [row[column_name] for row in csv_reader]
     print(f"{column_name} column values: {column_values}")
+    
 #######################################################################
 
 import csv
