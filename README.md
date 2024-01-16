@@ -1,2 +1,2 @@
-# Soft_assignment
- Software now assignments
+# assignments
+Software now assignments
